@@ -249,7 +249,7 @@ const handleOpen = () => {
               <motion.div whileHover={{ scale: 1.05 }} className="p-3 rounded-xl bg-white/10 border border-white/20  to-indigo-500 ">
                 <MapPin className="mx-auto mb-1 text-indigo-400" />
                 <p className="text-sm font-semibold">
-                  Alfa 1,Greater Noida
+                  Alpha-1,Greater Noida
                 </p>
               </motion.div>
 
